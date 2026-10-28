@@ -1,0 +1,10 @@
+{
+  "invalid_request": "Invalid request information. Please check again.",
+  "invalid_time": "Invalid transaction time.",
+  "time_skew": "Request rejected due to system time skew.",
+  "missing_code": "Please enter the verification code.",
+  "expired": "The verification code has expired. Please request a new one.",
+  "incorrect": "Incorrect verification code. Please try again.",
+  "success": "Success",
+  "verify_success": "Verification successful."
+}

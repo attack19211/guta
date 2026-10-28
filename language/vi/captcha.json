@@ -1,0 +1,10 @@
+{
+  "invalid_request": "Thông tin yêu cầu không hợp lệ. Vui lòng kiểm tra lại.",
+  "invalid_time": "Thời gian thực hiện giao dịch không hợp lệ.",
+  "time_skew": "Yêu cầu không được chấp nhận do lệch thời gian hệ thống.",
+  "missing_code": "Vui lòng nhập mã xác thực.",
+  "expired": "Mã xác thực đã hết hạn. Vui lòng lấy mã mới.",
+  "incorrect": "Mã xác thực không chính xác. Vui lòng thử lại.",
+  "success": "Thành công",
+  "verify_success": "Xác thực thành công."
+}
